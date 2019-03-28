@@ -6,7 +6,7 @@ let x = 0
 let count = 0
 let pie = 0
 function preload() {
-	sprite = loadImage('/images/sprite.jpg')
+	sprite = loadImage('images/sprite.jpg')
 }
 function setup() {
 	createCanvas(windowWidth, windowHeight);
